@@ -26,3 +26,6 @@ This project aims to predict whether a breast tumor is **malignant (cancerous)**
    - Out-of-sample predictions (with synthetic noise) showed 80% consistency, indicating robustness but some sensitivity to variations.
 - **Implications**: The model is a reliable tool for early breast cancer detection, suitable for assisting radiologists, though it requires validation with real patient data.
 
+### License
+This project is licensed under the MIT License. 
+
